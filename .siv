@@ -1,6 +1,6 @@
 {
   "name": "{{name}",
   "language":"{{language}}",
-  "project":"{{project}}",
+  "project":"{{project}}"
 
 }
